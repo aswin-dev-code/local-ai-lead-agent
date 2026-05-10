@@ -24,4 +24,5 @@ Standard cold outreach is often ignored because it lacks personalization. This t
 3. Run `pip install pandas ollama tqdm`.
 4. Add leads to `leads.csv`.
 5. Run `python main.py`.
+
 ⚠️ Test version — fictional data only. 🔜 Real version coming soon with live  website scraping + Claude AI.
